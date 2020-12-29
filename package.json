@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pawelwojtowicz/ha-webfeed/issues"
   },
-  "homepage": "https://github.com/pawelwojtowicz/ha-webfeed#readme"
+  "homepage": "https://github.com/pawelwojtowicz/ha-webfeed#readme",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
 }
