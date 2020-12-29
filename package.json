@@ -1,0 +1,24 @@
+{
+  "name": "ha-webfeed",
+  "version": "0.0.1",
+  "description": "The webfeed for the HA system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawelwojtowicz/ha-webfeed.git"
+  },
+  "keywords": [
+    "ha",
+    "mqtt",
+    "web"
+  ],
+  "author": "Pawel W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawelwojtowicz/ha-webfeed/issues"
+  },
+  "homepage": "https://github.com/pawelwojtowicz/ha-webfeed#readme"
+}
